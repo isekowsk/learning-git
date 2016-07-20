@@ -7,3 +7,5 @@
 * git commit - saves a version of a file
 * git diff - shows the difference between all commit versions
 * git log - shows log off changes
+
+edit
